@@ -1,3 +1,2 @@
 ﻿  newlabbb.cpp
-C:\Users\Полина\source\repos\newlabbb\newlabbb\newlabbb.cpp(20,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
   newlabbb.vcxproj -> C:\Users\Полина\source\repos\newlabbb\Debug\newlabbb.exe
